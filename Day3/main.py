@@ -40,3 +40,4 @@ if price < BUY_PRICE:
             to_addrs=TO_EMAIL_ADDRESS,
             msg=f"Subject:Amazon Price Alert!\n\n{message}\n{url}"
         )
+
